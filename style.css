@@ -12,10 +12,6 @@ body {
   overflow-x: hidden !important;
 }
 
-canvas {
-    display: block;
-    vertical-align: bottom;
-}
 
 .head {
   height: auto !important;
